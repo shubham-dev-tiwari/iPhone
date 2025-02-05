@@ -4,6 +4,8 @@
 This project brings a realistic, interactive iPhone model to your browser with buttery-smooth animations and seamless camera controls. Built with React Three Fiber, GSAP, and Three.js, this is more than just a model—it’s an experience.
 
 ✨ Live Demo: Coming Soon!
+
+
 🔥 Features That Make It Stand Out
 
 ✅ Stunning 3D iPhone Model – Explore every angle with high-quality rendering
