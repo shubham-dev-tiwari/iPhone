@@ -3,9 +3,7 @@
 🚀 **A stunning, interactive 3D iPhone model—right in your browser!**  
 Built with **React Three Fiber, GSAP, and Three.js**, this project brings **smooth animations, realistic lighting, and full interactivity** to 3D product visualization.  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="80%" alt="3D iPhone Demo">
-</div>  
+<div align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%" alt="Dark Theme 3D iPhone Demo"> </div> 
 
 ![GitHub stars](https://img.shields.io/github/stars/shubham-dev-tiwari/iPhone?style=for-the-badge)  
 ![GitHub forks](https://img.shields.io/github/forks/shubham-dev-tiwari/iPhone?style=for-the-badge)  
